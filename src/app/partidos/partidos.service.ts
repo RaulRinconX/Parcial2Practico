@@ -15,6 +15,5 @@ constructor(private http: HttpClient) { }
 
   getPartidos(): Observable<Partido[]> {
   return this.http.get<Partido[]>(this.apiUrl);
-}
-
+  }
 }

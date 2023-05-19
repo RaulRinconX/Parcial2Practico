@@ -1,10 +1,14 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col mb-2" *ngFor="let equipo of equipos">
-          <div class="card p-2" style="width: 15rem; height: 33rem">
+          <div class="card p-2" style="width: 15rem; height: 20rem">
               <div class="card-body">
-                <h5 class="card-title">{{ equipo }}</h5>
-                  <p class="card-text"></p>
+                <h5 class="card-title">{{ equipo.name }}</h5>
+                  <p class="card-text"> Grupo division: {{ equipo.group_letter }}</p>
+                  <p class="card-text"> Partidos jugados: {{ equipo.games_played }} </p>
+                  <p class="card-text"> Goles anotados: {{  equipo.goals_for }} </p>
+                  <p class="card-text"> Juegos perdidos: {{  equipo.losses }} </p>
+                  <p class="card-text"> Juegos ganados: {{  equipo.wins }} </p>
               </div>
            </div>
       </div>

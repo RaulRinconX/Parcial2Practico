@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { Equipo } from '../equipo';
+import { division } from '../division'
 import { EquipoService } from '../equipo.service';
+import { Equipo } from '../equipo';
 
 @Component({
   selector: 'app-equipos-list',
@@ -13,7 +14,7 @@ export class EquiposListComponent implements OnInit {
   constructor(private equipoService: EquipoService) { }
 
   getEquipos(): void {
-    this.equipoService.getEquipos().subscribe((equipos) => { this.equipos = equipos });
+    this.equipoService.getEquipos().subscribe((equipo) => { this.equipos = equipo });
   }
 
   ngOnInit() {
