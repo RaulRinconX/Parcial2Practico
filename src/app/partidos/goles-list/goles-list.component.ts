@@ -13,9 +13,17 @@ export class GolesListComponent implements OnInit {
 
   constructor(private partidoService: PartidosService) { }
 
+
   getPartidos(): void {
-    this.partidoService.getPartidos().subscribe((partidos) => { this.partidos = partidos });
+    this.partidoService.getPartidos().subscribe((partidos) => {
+      // Ordenamos los equipos según el número de goles de mayor a menor
+      partidos.forEach((partido) => {
+        partido.home_team.goals = Number(partido.home_team.goals); // Asegurarse de que los goles sean números
+      });
+      this.partidos = partidos.sort((a, b) => b.home_team.goals - a.home_team.goals);
+    });
   }
+
   ngOnInit() {
     this.getPartidos();
   }

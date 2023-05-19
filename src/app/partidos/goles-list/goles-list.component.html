@@ -5,22 +5,23 @@
               <thead class="thead">
                  <tr>
                     <th>Partido</th>
-                    <th>Lugar</th>
-                    <th>Nombre</th>
+                    <th>Nombre equipo</th>
                     <th>Goles</th>
                  </tr>
               </thead>
               <tbody>
-                <tr class="bg-light-gray" *ngFor="let partido partidos">
-                  <td>
-                    <strong>{{ partido.home_team.goals }}</strong>
+                
+                <tr class="bg-light-gray" *ngFor="let partido of partidos">
+                  <td *ngIf="partido.home_team.goals">
+                      {{ partido.attendance}}
                   </td>
-                  <td>
-                    hola
-                  </td>
-                  <td>
-                    hola
-                  </td>
+                <td *ngIf="partido.home_team.goals">
+                  {{ partido.home_team.name }}
+              </td>
+              <td *ngIf="partido.home_team.goals">
+                {{ partido.home_team.goals }}
+            </td>
+
                 </tr>
               </tbody>
           </table>
