@@ -1,0 +1,1352 @@
+[
+  {
+    "attendance": "67372",
+    "away_team": {
+      "country": "ECU",
+      "goals": 2,
+      "name": "Ecuador",
+      "penalties": 0
+    },
+    "away_team_country": "ECU",
+    "datetime": "2022-11-20T16:00:00Z",
+    "home_team": {
+      "country": "QAT",
+      "goals": 0,
+      "name": "Qatar",
+      "penalties": 0
+    },
+    "home_team_country": "QAT",
+    "id": 1,
+    "last_changed_at": "2022-11-24T16:21:02Z",
+    "last_checked_at": "2022-11-24T16:21:02Z",
+    "location": "Al Khor",
+    "stage_name": "First stage",
+    "status": "completed",
+    "venue": "Al Bayt Stadium",
+    "winner": "Ecuador",
+    "winner_code": "ECU"
+  },
+  {
+    "attendance": "45334",
+    "away_team": {
+      "country": "IRN",
+      "goals": 2,
+      "name": "Iran",
+      "penalties": 0
+    },
+    "away_team_country": "IRN",
+    "datetime": "2022-11-21T13:00:00Z",
+    "home_team": {
+      "country": "ENG",
+      "goals": 6,
+      "name": "England",
+      "penalties": 0
+    },
+    "home_team_country": "ENG",
+    "id": 2,
+    "last_changed_at": "2022-11-24T16:21:03Z",
+    "last_checked_at": "2022-11-24T16:21:03Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "First stage",
+    "status": "completed",
+    "venue": "Khalifa International Stadium",
+    "winner": "England",
+    "winner_code": "ENG"
+  },
+  {
+    "attendance": "41721",
+    "away_team": {
+      "country": "NED",
+      "goals": 2,
+      "name": "Netherlands",
+      "penalties": 0
+    },
+    "away_team_country": "NED",
+    "datetime": "2022-11-21T16:00:00Z",
+    "home_team": {
+      "country": "SEN",
+      "goals": 0,
+      "name": "Senegal",
+      "penalties": 0
+    },
+    "home_team_country": "SEN",
+    "id": 3,
+    "last_changed_at": "2022-11-24T16:21:03Z",
+    "last_checked_at": "2022-11-24T16:21:03Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "completed",
+    "venue": "Al Thumama Stadium",
+    "winner": "Netherlands",
+    "winner_code": "NED"
+  },
+  {
+    "attendance": "43418",
+    "away_team": {
+      "country": "WAL",
+      "goals": 1,
+      "name": "Wales",
+      "penalties": 0
+    },
+    "away_team_country": "WAL",
+    "datetime": "2022-11-21T19:00:00Z",
+    "home_team": {
+      "country": "USA",
+      "goals": 1,
+      "name": "United States",
+      "penalties": 0
+    },
+    "home_team_country": "USA",
+    "id": 4,
+    "last_changed_at": "2022-11-24T16:21:03Z",
+    "last_checked_at": "2022-11-24T16:21:03Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "First stage",
+    "status": "completed",
+    "venue": "Ahmad Bin Ali Stadium",
+    "winner": "Draw",
+    "winner_code": "Draw"
+  },
+  {
+    "attendance": "88012",
+    "away_team": {
+      "country": "KSA",
+      "goals": 2,
+      "name": "Saudi Arabia",
+      "penalties": 0
+    },
+    "away_team_country": "KSA",
+    "datetime": "2022-11-22T10:00:00Z",
+    "home_team": {
+      "country": "ARG",
+      "goals": 1,
+      "name": "Argentina",
+      "penalties": 0
+    },
+    "home_team_country": "ARG",
+    "id": 5,
+    "last_changed_at": "2022-11-24T16:21:04Z",
+    "last_checked_at": "2022-11-24T16:21:04Z",
+    "location": "Al Daayen",
+    "stage_name": "First stage",
+    "status": "completed",
+    "venue": "Lusail Stadium",
+    "winner": "Saudi Arabia",
+    "winner_code": "KSA"
+  },
+  {
+    "attendance": "42925",
+    "away_team": {
+      "country": "TUN",
+      "goals": 0,
+      "name": "Tunisia",
+      "penalties": 0
+    },
+    "away_team_country": "TUN",
+    "datetime": "2022-11-22T13:00:00Z",
+    "home_team": {
+      "country": "DEN",
+      "goals": 0,
+      "name": "Denmark",
+      "penalties": 0
+    },
+    "home_team_country": "DEN",
+    "id": 6,
+    "last_changed_at": "2022-11-24T16:21:04Z",
+    "last_checked_at": "2022-11-24T16:21:04Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "completed",
+    "venue": "Education City Stadium",
+    "winner": "Draw",
+    "winner_code": "Draw"
+  },
+  {
+    "attendance": "39369",
+    "away_team": {
+      "country": "POL",
+      "goals": 0,
+      "name": "Poland",
+      "penalties": 0
+    },
+    "away_team_country": "POL",
+    "datetime": "2022-11-22T16:00:00Z",
+    "home_team": {
+      "country": "MEX",
+      "goals": 0,
+      "name": "Mexico",
+      "penalties": 0
+    },
+    "home_team_country": "MEX",
+    "id": 7,
+    "last_changed_at": "2022-11-24T16:21:04Z",
+    "last_checked_at": "2022-11-24T16:21:04Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "completed",
+    "venue": "Stadium 974",
+    "winner": "Draw",
+    "winner_code": "Draw"
+  },
+  {
+    "attendance": "40875",
+    "away_team": {
+      "country": "AUS",
+      "goals": 1,
+      "name": "Australia",
+      "penalties": 0
+    },
+    "away_team_country": "AUS",
+    "datetime": "2022-11-22T19:00:00Z",
+    "home_team": {
+      "country": "FRA",
+      "goals": 4,
+      "name": "France",
+      "penalties": 0
+    },
+    "home_team_country": "FRA",
+    "id": 8,
+    "last_changed_at": "2022-11-24T16:21:04Z",
+    "last_checked_at": "2022-11-24T16:21:04Z",
+    "location": "Al Wakrah",
+    "stage_name": "First stage",
+    "status": "completed",
+    "venue": "Al Janoub Stadium",
+    "winner": "France",
+    "winner_code": "FRA"
+  },
+  {
+    "attendance": "59407",
+    "away_team": {
+      "country": "CRO",
+      "goals": 0,
+      "name": "Croatia",
+      "penalties": 0
+    },
+    "away_team_country": "CRO",
+    "datetime": "2022-11-23T10:00:00Z",
+    "home_team": {
+      "country": "MAR",
+      "goals": 0,
+      "name": "Morocco",
+      "penalties": 0
+    },
+    "home_team_country": "MAR",
+    "id": 9,
+    "last_changed_at": "2022-11-24T16:21:05Z",
+    "last_checked_at": "2022-11-24T16:21:05Z",
+    "location": "Al Khor",
+    "stage_name": "First stage",
+    "status": "completed",
+    "venue": "Al Bayt Stadium",
+    "winner": "Draw",
+    "winner_code": "Draw"
+  },
+  {
+    "attendance": "42608",
+    "away_team": {
+      "country": "JPN",
+      "goals": 2,
+      "name": "Japan",
+      "penalties": 0
+    },
+    "away_team_country": "JPN",
+    "datetime": "2022-11-23T13:00:00Z",
+    "home_team": {
+      "country": "GER",
+      "goals": 1,
+      "name": "Germany",
+      "penalties": 0
+    },
+    "home_team_country": "GER",
+    "id": 10,
+    "last_changed_at": "2022-11-24T16:21:05Z",
+    "last_checked_at": "2022-11-24T16:21:05Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "First stage",
+    "status": "completed",
+    "venue": "Khalifa International Stadium",
+    "winner": "Japan",
+    "winner_code": "JPN"
+  },
+  {
+    "attendance": "40013",
+    "away_team": {
+      "country": "CRC",
+      "goals": 0,
+      "name": "Costa Rica",
+      "penalties": 0
+    },
+    "away_team_country": "CRC",
+    "datetime": "2022-11-23T16:00:00Z",
+    "home_team": {
+      "country": "ESP",
+      "goals": 7,
+      "name": "Spain",
+      "penalties": 0
+    },
+    "home_team_country": "ESP",
+    "id": 11,
+    "last_changed_at": "2022-11-24T16:21:05Z",
+    "last_checked_at": "2022-11-24T16:21:05Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "completed",
+    "venue": "Al Thumama Stadium",
+    "winner": "Spain",
+    "winner_code": "ESP"
+  },
+  {
+    "attendance": "40432",
+    "away_team": {
+      "country": "CAN",
+      "goals": 0,
+      "name": "Canada",
+      "penalties": 0
+    },
+    "away_team_country": "CAN",
+    "datetime": "2022-11-23T19:00:00Z",
+    "home_team": {
+      "country": "BEL",
+      "goals": 1,
+      "name": "Belgium",
+      "penalties": 0
+    },
+    "home_team_country": "BEL",
+    "id": 12,
+    "last_changed_at": "2022-11-24T16:21:05Z",
+    "last_checked_at": "2022-11-24T16:21:05Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "First stage",
+    "status": "completed",
+    "venue": "Ahmad Bin Ali Stadium",
+    "winner": "Belgium",
+    "winner_code": "BEL"
+  },
+  {
+    "attendance": "39089",
+    "away_team": {
+      "country": "CMR",
+      "goals": 0,
+      "name": "Cameroon",
+      "penalties": 0
+    },
+    "away_team_country": "CMR",
+    "datetime": "2022-11-24T10:00:00Z",
+    "home_team": {
+      "country": "SUI",
+      "goals": 1,
+      "name": "Switzerland",
+      "penalties": 0
+    },
+    "home_team_country": "SUI",
+    "id": 13,
+    "last_changed_at": "2022-11-24T16:21:21Z",
+    "last_checked_at": "2022-11-24T16:21:21Z",
+    "location": "Al Wakrah",
+    "stage_name": "First stage",
+    "status": "completed",
+    "venue": "Al Janoub Stadium",
+    "winner": "Switzerland",
+    "winner_code": "SUI"
+  },
+  {
+    "attendance": "41663",
+    "away_team": {
+      "country": "KOR",
+      "goals": 0,
+      "name": "Korea Republic",
+      "penalties": 0
+    },
+    "away_team_country": "KOR",
+    "datetime": "2022-11-24T13:00:00Z",
+    "home_team": {
+      "country": "URU",
+      "goals": 0,
+      "name": "Uruguay",
+      "penalties": 0
+    },
+    "home_team_country": "URU",
+    "id": 14,
+    "last_changed_at": "2022-11-24T16:21:51Z",
+    "last_checked_at": "2022-11-24T16:21:51Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "completed",
+    "venue": "Education City Stadium",
+    "winner": "Draw",
+    "winner_code": "Draw"
+  },
+  {
+    "away_team": {
+      "country": "GHA",
+      "goals": 0,
+      "name": "Ghana",
+      "penalties": 0
+    },
+    "away_team_country": "GHA",
+    "datetime": "2022-11-24T16:00:00Z",
+    "home_team": {
+      "country": "POR",
+      "goals": 0,
+      "name": "Portugal",
+      "penalties": 0
+    },
+    "home_team_country": "POR",
+    "id": 15,
+    "last_changed_at": "2022-11-24T16:28:41Z",
+    "last_checked_at": "2022-11-24T16:28:41Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "in_progress",
+    "venue": "Stadium 974"
+  },
+  {
+    "away_team": {
+      "country": "SRB",
+      "name": "Serbia"
+    },
+    "away_team_country": "SRB",
+    "datetime": "2022-11-24T19:00:00Z",
+    "home_team": {
+      "country": "BRA",
+      "name": "Brazil"
+    },
+    "home_team_country": "BRA",
+    "id": 16,
+    "last_changed_at": "2022-11-24T16:29:02Z",
+    "last_checked_at": "2022-11-24T16:29:02Z",
+    "location": "Al Daayen",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Lusail Stadium"
+  },
+  {
+    "away_team": {
+      "country": "IRN",
+      "name": "Iran"
+    },
+    "away_team_country": "IRN",
+    "datetime": "2022-11-25T10:00:00Z",
+    "home_team": {
+      "country": "WAL",
+      "name": "Wales"
+    },
+    "home_team_country": "WAL",
+    "id": 17,
+    "last_changed_at": "2022-11-24T15:15:38Z",
+    "last_checked_at": "2022-11-24T15:15:38Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Ahmad Bin Ali Stadium"
+  },
+  {
+    "away_team": {
+      "country": "SEN",
+      "name": "Senegal"
+    },
+    "away_team_country": "SEN",
+    "datetime": "2022-11-25T13:00:00Z",
+    "home_team": {
+      "country": "QAT",
+      "name": "Qatar"
+    },
+    "home_team_country": "QAT",
+    "id": 18,
+    "last_changed_at": "2022-11-24T16:21:06Z",
+    "last_checked_at": "2022-11-24T16:21:06Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Al Thumama Stadium"
+  },
+  {
+    "away_team": {
+      "country": "ECU",
+      "name": "Ecuador"
+    },
+    "away_team_country": "ECU",
+    "datetime": "2022-11-25T16:00:00Z",
+    "home_team": {
+      "country": "NED",
+      "name": "Netherlands"
+    },
+    "home_team_country": "NED",
+    "id": 19,
+    "last_changed_at": "2022-11-24T16:21:06Z",
+    "last_checked_at": "2022-11-24T16:21:06Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Khalifa International Stadium"
+  },
+  {
+    "away_team": {
+      "country": "USA",
+      "name": "United States"
+    },
+    "away_team_country": "USA",
+    "datetime": "2022-11-25T19:00:00Z",
+    "home_team": {
+      "country": "ENG",
+      "name": "England"
+    },
+    "home_team_country": "ENG",
+    "id": 20,
+    "last_changed_at": "2022-11-24T16:21:06Z",
+    "last_checked_at": "2022-11-24T16:21:06Z",
+    "location": "Al Khor",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Al Bayt Stadium"
+  },
+  {
+    "away_team": {
+      "country": "AUS",
+      "name": "Australia"
+    },
+    "away_team_country": "AUS",
+    "datetime": "2022-11-26T10:00:00Z",
+    "home_team": {
+      "country": "TUN",
+      "name": "Tunisia"
+    },
+    "home_team_country": "TUN",
+    "id": 21,
+    "last_changed_at": "2022-11-24T16:21:06Z",
+    "last_checked_at": "2022-11-24T16:21:06Z",
+    "location": "Al Wakrah",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Al Janoub Stadium"
+  },
+  {
+    "away_team": {
+      "country": "KSA",
+      "name": "Saudi Arabia"
+    },
+    "away_team_country": "KSA",
+    "datetime": "2022-11-26T13:00:00Z",
+    "home_team": {
+      "country": "POL",
+      "name": "Poland"
+    },
+    "home_team_country": "POL",
+    "id": 22,
+    "last_changed_at": "2022-11-24T16:21:07Z",
+    "last_checked_at": "2022-11-24T16:21:07Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Education City Stadium"
+  },
+  {
+    "away_team": {
+      "country": "DEN",
+      "name": "Denmark"
+    },
+    "away_team_country": "DEN",
+    "datetime": "2022-11-26T16:00:00Z",
+    "home_team": {
+      "country": "FRA",
+      "name": "France"
+    },
+    "home_team_country": "FRA",
+    "id": 23,
+    "last_changed_at": "2022-11-24T16:21:07Z",
+    "last_checked_at": "2022-11-24T16:21:07Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Stadium 974"
+  },
+  {
+    "away_team": {
+      "country": "MEX",
+      "name": "Mexico"
+    },
+    "away_team_country": "MEX",
+    "datetime": "2022-11-26T19:00:00Z",
+    "home_team": {
+      "country": "ARG",
+      "name": "Argentina"
+    },
+    "home_team_country": "ARG",
+    "id": 24,
+    "last_changed_at": "2022-11-24T16:21:07Z",
+    "last_checked_at": "2022-11-24T16:21:07Z",
+    "location": "Al Daayen",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Lusail Stadium"
+  },
+  {
+    "away_team": {
+      "country": "CRC",
+      "name": "Costa Rica"
+    },
+    "away_team_country": "CRC",
+    "datetime": "2022-11-27T10:00:00Z",
+    "home_team": {
+      "country": "JPN",
+      "name": "Japan"
+    },
+    "home_team_country": "JPN",
+    "id": 25,
+    "last_changed_at": "2022-11-24T15:15:36Z",
+    "last_checked_at": "2022-11-24T15:15:36Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Ahmad Bin Ali Stadium"
+  },
+  {
+    "away_team": {
+      "country": "MAR",
+      "name": "Morocco"
+    },
+    "away_team_country": "MAR",
+    "datetime": "2022-11-27T13:00:00Z",
+    "home_team": {
+      "country": "BEL",
+      "name": "Belgium"
+    },
+    "home_team_country": "BEL",
+    "id": 26,
+    "last_changed_at": "2022-11-24T16:21:07Z",
+    "last_checked_at": "2022-11-24T16:21:07Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Al Thumama Stadium"
+  },
+  {
+    "away_team": {
+      "country": "CAN",
+      "name": "Canada"
+    },
+    "away_team_country": "CAN",
+    "datetime": "2022-11-27T16:00:00Z",
+    "home_team": {
+      "country": "CRO",
+      "name": "Croatia"
+    },
+    "home_team_country": "CRO",
+    "id": 27,
+    "last_changed_at": "2022-11-24T15:15:32Z",
+    "last_checked_at": "2022-11-24T15:15:32Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Khalifa International Stadium"
+  },
+  {
+    "away_team": {
+      "country": "GER",
+      "name": "Germany"
+    },
+    "away_team_country": "GER",
+    "datetime": "2022-11-27T19:00:00Z",
+    "home_team": {
+      "country": "ESP",
+      "name": "Spain"
+    },
+    "home_team_country": "ESP",
+    "id": 28,
+    "last_changed_at": "2022-11-24T16:21:08Z",
+    "last_checked_at": "2022-11-24T16:21:08Z",
+    "location": "Al Khor",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Al Bayt Stadium"
+  },
+  {
+    "away_team": {
+      "country": "SRB",
+      "name": "Serbia"
+    },
+    "away_team_country": "SRB",
+    "datetime": "2022-11-28T10:00:00Z",
+    "home_team": {
+      "country": "CMR",
+      "name": "Cameroon"
+    },
+    "home_team_country": "CMR",
+    "id": 29,
+    "last_changed_at": "2022-11-24T15:15:30Z",
+    "last_checked_at": "2022-11-24T15:15:30Z",
+    "location": "Al Wakrah",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Al Janoub Stadium"
+  },
+  {
+    "away_team": {
+      "country": "GHA",
+      "name": "Ghana"
+    },
+    "away_team_country": "GHA",
+    "datetime": "2022-11-28T13:00:00Z",
+    "home_team": {
+      "country": "KOR",
+      "name": "Korea Republic"
+    },
+    "home_team_country": "KOR",
+    "id": 30,
+    "last_changed_at": "2022-11-24T16:21:08Z",
+    "last_checked_at": "2022-11-24T16:21:08Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Education City Stadium"
+  },
+  {
+    "away_team": {
+      "country": "SUI",
+      "name": "Switzerland"
+    },
+    "away_team_country": "SUI",
+    "datetime": "2022-11-28T16:00:00Z",
+    "home_team": {
+      "country": "BRA",
+      "name": "Brazil"
+    },
+    "home_team_country": "BRA",
+    "id": 31,
+    "last_changed_at": "2022-11-24T13:56:10Z",
+    "last_checked_at": "2022-11-24T13:56:10Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Stadium 974"
+  },
+  {
+    "away_team": {
+      "country": "URU",
+      "name": "Uruguay"
+    },
+    "away_team_country": "URU",
+    "datetime": "2022-11-28T19:00:00Z",
+    "home_team": {
+      "country": "POR",
+      "name": "Portugal"
+    },
+    "home_team_country": "POR",
+    "id": 32,
+    "last_changed_at": "2022-11-24T16:21:08Z",
+    "last_checked_at": "2022-11-24T16:21:08Z",
+    "location": "Al Daayen",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Lusail Stadium"
+  },
+  {
+    "away_team": {
+      "country": "QAT",
+      "name": "Qatar"
+    },
+    "away_team_country": "QAT",
+    "datetime": "2022-11-29T15:00:00Z",
+    "home_team": {
+      "country": "NED",
+      "name": "Netherlands"
+    },
+    "home_team_country": "NED",
+    "id": 33,
+    "last_changed_at": "2022-11-24T16:21:08Z",
+    "last_checked_at": "2022-11-24T16:21:08Z",
+    "location": "Al Khor",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Al Bayt Stadium"
+  },
+  {
+    "away_team": {
+      "country": "SEN",
+      "name": "Senegal"
+    },
+    "away_team_country": "SEN",
+    "datetime": "2022-11-29T15:00:00Z",
+    "home_team": {
+      "country": "ECU",
+      "name": "Ecuador"
+    },
+    "home_team_country": "ECU",
+    "id": 34,
+    "last_changed_at": "2022-11-24T16:21:09Z",
+    "last_checked_at": "2022-11-24T16:21:09Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Khalifa International Stadium"
+  },
+  {
+    "away_team": {
+      "country": "ENG",
+      "name": "England"
+    },
+    "away_team_country": "ENG",
+    "datetime": "2022-11-29T19:00:00Z",
+    "home_team": {
+      "country": "WAL",
+      "name": "Wales"
+    },
+    "home_team_country": "WAL",
+    "id": 35,
+    "last_changed_at": "2022-11-24T16:21:09Z",
+    "last_checked_at": "2022-11-24T16:21:09Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Ahmad Bin Ali Stadium"
+  },
+  {
+    "away_team": {
+      "country": "USA",
+      "name": "United States"
+    },
+    "away_team_country": "USA",
+    "datetime": "2022-11-29T19:00:00Z",
+    "home_team": {
+      "country": "IRN",
+      "name": "Iran"
+    },
+    "home_team_country": "IRN",
+    "id": 36,
+    "last_changed_at": "2022-11-24T16:21:09Z",
+    "last_checked_at": "2022-11-24T16:21:09Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Al Thumama Stadium"
+  },
+  {
+    "away_team": {
+      "country": "FRA",
+      "name": "France"
+    },
+    "away_team_country": "FRA",
+    "datetime": "2022-11-30T15:00:00Z",
+    "home_team": {
+      "country": "TUN",
+      "name": "Tunisia"
+    },
+    "home_team_country": "TUN",
+    "id": 38,
+    "last_changed_at": "2022-11-24T15:15:28Z",
+    "last_checked_at": "2022-11-24T15:15:28Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Education City Stadium"
+  },
+  {
+    "away_team": {
+      "country": "DEN",
+      "name": "Denmark"
+    },
+    "away_team_country": "DEN",
+    "datetime": "2022-11-30T15:00:00Z",
+    "home_team": {
+      "country": "AUS",
+      "name": "Australia"
+    },
+    "home_team_country": "AUS",
+    "id": 37,
+    "last_changed_at": "2022-11-24T16:21:09Z",
+    "last_checked_at": "2022-11-24T16:21:09Z",
+    "location": "Al Wakrah",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Al Janoub Stadium"
+  },
+  {
+    "away_team": {
+      "country": "MEX",
+      "name": "Mexico"
+    },
+    "away_team_country": "MEX",
+    "datetime": "2022-11-30T19:00:00Z",
+    "home_team": {
+      "country": "KSA",
+      "name": "Saudi Arabia"
+    },
+    "home_team_country": "KSA",
+    "id": 40,
+    "last_changed_at": "2022-11-24T16:21:10Z",
+    "last_checked_at": "2022-11-24T16:21:10Z",
+    "location": "Al Daayen",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Lusail Stadium"
+  },
+  {
+    "away_team": {
+      "country": "ARG",
+      "name": "Argentina"
+    },
+    "away_team_country": "ARG",
+    "datetime": "2022-11-30T19:00:00Z",
+    "home_team": {
+      "country": "POL",
+      "name": "Poland"
+    },
+    "home_team_country": "POL",
+    "id": 39,
+    "last_changed_at": "2022-11-24T15:15:38Z",
+    "last_checked_at": "2022-11-24T15:15:38Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Stadium 974"
+  },
+  {
+    "away_team": {
+      "country": "BEL",
+      "name": "Belgium"
+    },
+    "away_team_country": "BEL",
+    "datetime": "2022-12-01T15:00:00Z",
+    "home_team": {
+      "country": "CRO",
+      "name": "Croatia"
+    },
+    "home_team_country": "CRO",
+    "id": 41,
+    "last_changed_at": "2022-11-24T15:15:31Z",
+    "last_checked_at": "2022-11-24T15:15:31Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Ahmad Bin Ali Stadium"
+  },
+  {
+    "away_team": {
+      "country": "MAR",
+      "name": "Morocco"
+    },
+    "away_team_country": "MAR",
+    "datetime": "2022-12-01T15:00:00Z",
+    "home_team": {
+      "country": "CAN",
+      "name": "Canada"
+    },
+    "home_team_country": "CAN",
+    "id": 42,
+    "last_changed_at": "2022-11-24T16:21:10Z",
+    "last_checked_at": "2022-11-24T16:21:10Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Al Thumama Stadium"
+  },
+  {
+    "away_team": {
+      "country": "ESP",
+      "name": "Spain"
+    },
+    "away_team_country": "ESP",
+    "datetime": "2022-12-01T19:00:00Z",
+    "home_team": {
+      "country": "JPN",
+      "name": "Japan"
+    },
+    "home_team_country": "JPN",
+    "id": 43,
+    "last_changed_at": "2022-11-24T16:21:10Z",
+    "last_checked_at": "2022-11-24T16:21:10Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Khalifa International Stadium"
+  },
+  {
+    "away_team": {
+      "country": "GER",
+      "name": "Germany"
+    },
+    "away_team_country": "GER",
+    "datetime": "2022-12-01T19:00:00Z",
+    "home_team": {
+      "country": "CRC",
+      "name": "Costa Rica"
+    },
+    "home_team_country": "CRC",
+    "id": 44,
+    "last_changed_at": "2022-11-24T16:21:10Z",
+    "last_checked_at": "2022-11-24T16:21:10Z",
+    "location": "Al Khor",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Al Bayt Stadium"
+  },
+  {
+    "away_team": {
+      "country": "POR",
+      "name": "Portugal"
+    },
+    "away_team_country": "POR",
+    "datetime": "2022-12-02T15:00:00Z",
+    "home_team": {
+      "country": "KOR",
+      "name": "Korea Republic"
+    },
+    "home_team_country": "KOR",
+    "id": 46,
+    "last_changed_at": "2022-11-24T15:15:27Z",
+    "last_checked_at": "2022-11-24T15:15:27Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Education City Stadium"
+  },
+  {
+    "away_team": {
+      "country": "URU",
+      "name": "Uruguay"
+    },
+    "away_team_country": "URU",
+    "datetime": "2022-12-02T15:00:00Z",
+    "home_team": {
+      "country": "GHA",
+      "name": "Ghana"
+    },
+    "home_team_country": "GHA",
+    "id": 45,
+    "last_changed_at": "2022-11-24T16:21:11Z",
+    "last_checked_at": "2022-11-24T16:21:11Z",
+    "location": "Al Wakrah",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Al Janoub Stadium"
+  },
+  {
+    "away_team": {
+      "country": "SUI",
+      "name": "Switzerland"
+    },
+    "away_team_country": "SUI",
+    "datetime": "2022-12-02T19:00:00Z",
+    "home_team": {
+      "country": "SRB",
+      "name": "Serbia"
+    },
+    "home_team_country": "SRB",
+    "id": 47,
+    "last_changed_at": "2022-11-24T15:15:27Z",
+    "last_checked_at": "2022-11-24T15:15:27Z",
+    "location": "Doha",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Stadium 974"
+  },
+  {
+    "away_team": {
+      "country": "BRA",
+      "name": "Brazil"
+    },
+    "away_team_country": "BRA",
+    "datetime": "2022-12-02T19:00:00Z",
+    "home_team": {
+      "country": "CMR",
+      "name": "Cameroon"
+    },
+    "home_team_country": "CMR",
+    "id": 48,
+    "last_changed_at": "2022-11-24T16:21:11Z",
+    "last_checked_at": "2022-11-24T16:21:11Z",
+    "location": "Al Daayen",
+    "stage_name": "First stage",
+    "status": "future_scheduled",
+    "venue": "Lusail Stadium"
+  },
+  {
+    "away_team": {
+      "country": "2B",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-03T15:00:00Z",
+    "home_team": {
+      "country": "1A",
+      "name": "To Be Determined"
+    },
+    "id": 49,
+    "last_changed_at": "2022-11-20T21:29:25Z",
+    "last_checked_at": "2022-11-24T16:21:11Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "Round of 16",
+    "status": "future_unscheduled",
+    "venue": "Khalifa International Stadium"
+  },
+  {
+    "away_team": {
+      "country": "2D",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-03T19:00:00Z",
+    "home_team": {
+      "country": "1C",
+      "name": "To Be Determined"
+    },
+    "id": 50,
+    "last_changed_at": "2022-11-20T21:29:31Z",
+    "last_checked_at": "2022-11-24T16:21:11Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "Round of 16",
+    "status": "future_unscheduled",
+    "venue": "Ahmad Bin Ali Stadium"
+  },
+  {
+    "away_team": {
+      "country": "2C",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-04T15:00:00Z",
+    "home_team": {
+      "country": "1D",
+      "name": "To Be Determined"
+    },
+    "id": 51,
+    "last_changed_at": "2022-11-20T21:29:16Z",
+    "last_checked_at": "2022-11-24T16:21:12Z",
+    "location": "Doha",
+    "stage_name": "Round of 16",
+    "status": "future_unscheduled",
+    "venue": "Al Thumama Stadium"
+  },
+  {
+    "away_team": {
+      "country": "2A",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-04T19:00:00Z",
+    "home_team": {
+      "country": "1B",
+      "name": "To Be Determined"
+    },
+    "id": 52,
+    "last_changed_at": "2022-11-20T21:29:17Z",
+    "last_checked_at": "2022-11-24T16:21:12Z",
+    "location": "Al Khor",
+    "stage_name": "Round of 16",
+    "status": "future_unscheduled",
+    "venue": "Al Bayt Stadium"
+  },
+  {
+    "away_team": {
+      "country": "2F",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-05T15:00:00Z",
+    "home_team": {
+      "country": "1E",
+      "name": "To Be Determined"
+    },
+    "id": 53,
+    "last_changed_at": "2022-11-20T21:29:25Z",
+    "last_checked_at": "2022-11-24T16:21:12Z",
+    "location": "Al Wakrah",
+    "stage_name": "Round of 16",
+    "status": "future_unscheduled",
+    "venue": "Al Janoub Stadium"
+  },
+  {
+    "away_team": {
+      "country": "2H",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-05T19:00:00Z",
+    "home_team": {
+      "country": "1G",
+      "name": "To Be Determined"
+    },
+    "id": 54,
+    "last_changed_at": "2022-11-20T21:29:21Z",
+    "last_checked_at": "2022-11-24T16:21:12Z",
+    "location": "Doha",
+    "stage_name": "Round of 16",
+    "status": "future_unscheduled",
+    "venue": "Stadium 974"
+  },
+  {
+    "away_team": {
+      "country": "2E",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-06T15:00:00Z",
+    "home_team": {
+      "country": "1F",
+      "name": "To Be Determined"
+    },
+    "id": 55,
+    "last_changed_at": "2022-11-20T21:29:35Z",
+    "last_checked_at": "2022-11-24T16:21:12Z",
+    "location": "Doha",
+    "stage_name": "Round of 16",
+    "status": "future_unscheduled",
+    "venue": "Education City Stadium"
+  },
+  {
+    "away_team": {
+      "country": "2G",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-06T19:00:00Z",
+    "home_team": {
+      "country": "1H",
+      "name": "To Be Determined"
+    },
+    "id": 56,
+    "last_changed_at": "2022-11-20T21:29:32Z",
+    "last_checked_at": "2022-11-24T16:21:13Z",
+    "location": "Al Daayen",
+    "stage_name": "Round of 16",
+    "status": "future_unscheduled",
+    "venue": "Lusail Stadium"
+  },
+  {
+    "away_team": {
+      "country": "W54",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-09T15:00:00Z",
+    "home_team": {
+      "country": "W53",
+      "name": "To Be Determined"
+    },
+    "id": 57,
+    "last_changed_at": "2022-11-20T21:29:29Z",
+    "last_checked_at": "2022-11-24T16:21:13Z",
+    "location": "Doha",
+    "stage_name": "Quarter-final",
+    "status": "future_unscheduled",
+    "venue": "Education City Stadium"
+  },
+  {
+    "away_team": {
+      "country": "W50",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-09T19:00:00Z",
+    "home_team": {
+      "country": "W49",
+      "name": "To Be Determined"
+    },
+    "id": 58,
+    "last_changed_at": "2022-11-20T21:29:16Z",
+    "last_checked_at": "2022-11-24T16:21:13Z",
+    "location": "Al Daayen",
+    "stage_name": "Quarter-final",
+    "status": "future_unscheduled",
+    "venue": "Lusail Stadium"
+  },
+  {
+    "away_team": {
+      "country": "W56",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-10T15:00:00Z",
+    "home_team": {
+      "country": "W55",
+      "name": "To Be Determined"
+    },
+    "id": 59,
+    "last_changed_at": "2022-11-20T21:29:20Z",
+    "last_checked_at": "2022-11-24T16:21:13Z",
+    "location": "Doha",
+    "stage_name": "Quarter-final",
+    "status": "future_unscheduled",
+    "venue": "Al Thumama Stadium"
+  },
+  {
+    "away_team": {
+      "country": "W52",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-10T19:00:00Z",
+    "home_team": {
+      "country": "W51",
+      "name": "To Be Determined"
+    },
+    "id": 60,
+    "last_changed_at": "2022-11-20T21:29:24Z",
+    "last_checked_at": "2022-11-24T16:21:14Z",
+    "location": "Al Khor",
+    "stage_name": "Quarter-final",
+    "status": "future_unscheduled",
+    "venue": "Al Bayt Stadium"
+  },
+  {
+    "away_team": {
+      "country": "W58",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-13T19:00:00Z",
+    "home_team": {
+      "country": "W57",
+      "name": "To Be Determined"
+    },
+    "id": 61,
+    "last_changed_at": "2022-11-20T21:29:25Z",
+    "last_checked_at": "2022-11-24T16:21:14Z",
+    "location": "Al Daayen",
+    "stage_name": "Semi-final",
+    "status": "future_unscheduled",
+    "venue": "Lusail Stadium"
+  },
+  {
+    "away_team": {
+      "country": "W60",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-14T19:00:00Z",
+    "home_team": {
+      "country": "W59",
+      "name": "To Be Determined"
+    },
+    "id": 62,
+    "last_changed_at": "2022-11-20T21:29:26Z",
+    "last_checked_at": "2022-11-24T16:21:14Z",
+    "location": "Al Khor",
+    "stage_name": "Semi-final",
+    "status": "future_unscheduled",
+    "venue": "Al Bayt Stadium"
+  },
+  {
+    "away_team": {
+      "country": "RU62",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-17T15:00:00Z",
+    "home_team": {
+      "country": "RU61",
+      "name": "To Be Determined"
+    },
+    "id": 63,
+    "last_changed_at": "2022-11-20T21:29:31Z",
+    "last_checked_at": "2022-11-24T16:21:14Z",
+    "location": "Ar-Rayyan",
+    "stage_name": "Play-off for third place",
+    "status": "future_unscheduled",
+    "venue": "Khalifa International Stadium"
+  },
+  {
+    "away_team": {
+      "country": "W62",
+      "name": "To Be Determined"
+    },
+    "datetime": "2022-12-18T15:00:00Z",
+    "home_team": {
+      "country": "W61",
+      "name": "To Be Determined"
+    },
+    "id": 64,
+    "last_changed_at": "2022-11-20T21:29:17Z",
+    "last_checked_at": "2022-11-24T16:21:15Z",
+    "location": "Al Daayen",
+    "stage_name": "Final",
+    "status": "future_unscheduled",
+    "venue": "Lusail Stadium"
+  }
+]
