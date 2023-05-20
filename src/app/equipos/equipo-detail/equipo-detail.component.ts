@@ -1,6 +1,7 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { EquipoDetail } from '../equipoDetail';
-
+import { ActivatedRoute } from '@angular/router';
+import { EquipoService } from '../equipo.service';
 
 @Component({
   selector: 'app-equipo-detail',
@@ -9,11 +10,17 @@ import { EquipoDetail } from '../equipoDetail';
 })
 export class EquipoDetailComponent implements OnInit {
 
+  equipoName!: string;
   @Input() equipoDetail!: EquipoDetail;
 
-  constructor() { }
+  constructor(private equipoService: EquipoService,   private route: ActivatedRoute) { }
 
   ngOnInit() {
-  }
+    if(this.equipoDetail === undefined){
+      this.equipoName = this.route.snapshot.paramMap.get('name')!
+      if (this.equipoName) {
+      }
+    }
 
+  }
 }

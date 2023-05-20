@@ -6,6 +6,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PartidosModule } from './partidos/partidos.module';
 import { EquiposModule } from './equipos/equipos.module';
+import { EquipoRoutingModule } from './equipos/equipo.routing';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { EquiposModule } from './equipos/equipos.module';
     AppRoutingModule,
     PartidosModule,
     EquiposModule,
-    HttpClientModule
+    HttpClientModule,
+    EquipoRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin: 5% 0;
+  background-color:#95d2a8;
+}
+
+.app-component {
+  margin-bottom: 5%;
+}
+
+.app-partidos-listar, .app-goles-list, .app-equipos-list {
+  background-color: #f2f2f2;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.router-outlet {
+  display: block;
+  margin-top: 20px;
+}
