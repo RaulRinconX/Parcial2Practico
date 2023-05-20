@@ -1,3 +1,6 @@
+<div *ngIf="selectedEquipo">
+  <app-equipo-detail [equipoDetail]="selectedEquipo"></app-equipo-detail>
+ </div>
 <div class="container-fluid">
   <div class="row">
     <div class="col mb-2" *ngFor="let equipo of equipos">
@@ -9,6 +12,7 @@
                   <p class="card-text"> Goles anotados: {{  equipo.goals_for }} </p>
                   <p class="card-text"> Juegos perdidos: {{  equipo.losses }} </p>
                   <p class="card-text"> Juegos ganados: {{  equipo.wins }} </p>
+                  <button (click)="onSelected(equipo)"> Mostrar detalle  </button>
               </div>
            </div>
       </div>
